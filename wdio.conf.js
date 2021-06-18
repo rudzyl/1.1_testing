@@ -23,7 +23,7 @@ exports.config = {
   // then the current working directory is where your `package.json` resides, so `wdio`
   // will be called from there.
   //
-  specs: ["./test-cases/login-logout.js"],
+  specs: ["./page-object/test-cases/drop-down-e2e.js"],
   // Patterns to exclude.
   exclude: [
     // 'path/to/excluded/files'
